@@ -1,0 +1,35 @@
+.task {
+  width: 100%;
+  margin-top: 3%;
+  background-color: rgba(219, 219, 219, 0.658);
+  border-width: 0px;
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  border-style: none;
+  text-align: center;
+  border-color:rgba(219, 219, 219, 0.658) ;
+}
+
+.task :hover {
+  background-color: white;
+}
+.add {
+  margin-top: 3%;
+  width: 100%;
+  background-color: #f8c6cd;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  color: #92616d;
+  border: rgba(219, 219, 219, 0.658);
+  padding-top: 1%;
+  padding-bottom: 1%;
+  font-size: auto;
+  border-style: none;
+}
+
+.add:hover {
+  background-color: #92616d;
+  color: white;
+}

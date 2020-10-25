@@ -1,0 +1,42 @@
+.taskList{
+    width: 100%;
+    margin-top: 3%;
+    background-color: #92616d;
+    max-height: max-content;
+}
+
+.fa-trash-alt{
+    margin-right: 2%;
+    float: right;
+}
+
+
+.checkbox{
+    float: left;
+    margin-left: 2%;
+    width: .6em;
+    height: .6em;
+    margin-top: .85%;
+    margin-right: 2%;
+    background-color: #ffabb6;
+    color: #ffabb6;
+    border: #ffabb6;
+}
+.taskList-content{
+    font-family: "Times New Roman", Times, serif;
+    text-align: left;
+    margin: 3%;
+    border: #ffabb6;
+    color: #92616d;
+    border:#92616d ;
+    border: unset;
+    background-color: rgba(219, 219, 219, 0.658);
+    width: 100%;
+    margin-left: -.25%;
+    padding-top: .5%;
+    padding-bottom: .5%;
+    border-style: none;
+}
+.taskList-content  :hover{
+color: #534447
+}
